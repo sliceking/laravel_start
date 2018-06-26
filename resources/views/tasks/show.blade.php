@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hi</h1>
+    <li> {{ $task->body }} </li>
 </body>
 </html>
